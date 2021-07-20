@@ -20,19 +20,19 @@
 
 <form action="${pageContext.request.contextPath}/UserController "method="POST">
                 <div class="form-group">
-					<input type="text" name="name" value="${user.name}" placeholder="Enter the name" class="form-control"/><br />
+					<input type="text" name="name" value="${user.name}" placeholder="Enter Name" class="form-control"/><br />
 				</div>
 
 				<div class="form-group">
-					<input type="text" name="phone" value="${user.phone}" placeholder="Enter the phone" class="form-control"/><br />
+					<input type="text" name="phone" value="${user.phone}" placeholder="Enter Phone" class="form-control"/><br />
 				</div>
 
 				<div class="form-group">
-					<input type="text" name="email" value="${user.email}"  placeholder="Enter the email" class="form-control"/><br />
+					<input type="text" name="email" value="${user.email}"  placeholder="Enter Email" class="form-control"/><br />
 				</div>
 				
 				<div class="form-group">
-					<input type="text" name="country" value="${user.country}" placeholder="Enter the Country" class="form-control"/><br />
+					<input type="text" name="country" value="${user.country}" placeholder="Enter Country" class="form-control"/><br />
 				</div>
 				
 				<input type="hidden" value="${user.id}"  name="id"/>
