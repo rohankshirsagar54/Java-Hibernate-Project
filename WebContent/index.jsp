@@ -19,13 +19,13 @@
 					<div class="form-group">
 
 						<input type="text" name="email" class="form-control"
-							placeholder="Enter Email" />
+							placeholder="Enter Email here" />
 					</div>
 
 					<div class="form-group">
 
 						<input type="password" name="password" class="form-control"
-							placeholder="Enter Password" />
+							placeholder="Enter Password here" />
 					</div>
 				</div>
 
