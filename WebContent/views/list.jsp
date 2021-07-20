@@ -40,9 +40,9 @@ if(email==null){
 <thead>
 <tr class="thead-drak">
 <th>Name</th>
-<th>Phone</th>
-<th>Email</th>
-<th>Country</th>
+<th>PhoneNo</th>
+<th>Email ID</th>
+<th>Country Name</th>
 <th>Actions</th>
 </tr>
 </thead>
